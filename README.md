@@ -30,7 +30,7 @@ The dataset consists of 100,000 records with the following columns:
 ## Key Features
 - **Data Preprocessing**: The dataset undergoes preprocessing, including missing value handling, feature scaling, and encoding categorical variables.
 - **Model Training**: A Random Forest Classifier is used to predict loan default risk, selected after comparing multiple models.
-- **Web Application**: A Python Flask web app is provided to allow users to make predictions on new data by loading the trained model.
+- **Web Application**: A Python Streamlit web app is provided to allow users to make predictions on new data by loading the trained model.
 
 ## How to Run the Project
 
