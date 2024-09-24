@@ -36,7 +36,7 @@ The dataset consists of 100,000 records with the following columns:
 
 ### Prerequisites
 - Python 3.8 or higher
-- `Flask` for serving the web application
+- `Streamlit` for serving the web application
 - `scikit-learn` for machine learning operations
 - `pandas` and `numpy` for data processing
 
@@ -54,7 +54,7 @@ The dataset consists of 100,000 records with the following columns:
 
 ### Running the Web Application
 1. Ensure the `app.py`, `best_random_forest_model.pkl`, `scaler.pkl`, and `expected_columns.pkl` files are in the same directory.
-2. Start the Flask app:
+2. Start the Streamlit app:
    ```bash
    python app.py
    ```
