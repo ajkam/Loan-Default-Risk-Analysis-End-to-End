@@ -1,8 +1,5 @@
 # Loan-Default-Risk-Analysis-End-to-End
 
-
-# Loan Default Risk Prediction Project
-
 This project aims to predict loan default risk based on various demographic and financial attributes of applicants. Using a dataset of 100,000 records, the model assesses risk using machine learning techniques, providing insights into factors that contribute to default risk.
 
 ## Project Overview
